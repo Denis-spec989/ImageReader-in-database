@@ -46,7 +46,9 @@ try(Connection con=DriverManager.
                         getConnection(url,"sa","You need to insert your password in Microsofr SQL Server"))
         {
 ```
-
+___
+Автор: Игнатов Денис
+e-mail: proanglerdenis@gmail.com
 
 
 
